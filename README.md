@@ -2,7 +2,7 @@
 
 ## Hello world! <img src="./Hi.gif" width="30px"></h2>
 
-<div>
+<div align="center" width="100%">
     <a href="https://twitter.com/JuanGSaurithM">
         <img align="left" alt="Juangui's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
@@ -15,7 +15,7 @@
 </div>
 <br />
 
-<img align="right" alt="GIF" src="./cat.gif" />
+<img align="right" width="50%" alt="GIF" src="./cat.gif" />
 
 ### I'm Juan G. Saurith M. 🇨🇴
 - A Statistics Student at [@UNAL](https://unal.edu.co/)
