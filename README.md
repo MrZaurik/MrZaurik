@@ -1,3 +1,5 @@
+<!-- This was made by Juan G. Saurith M. -->
+
 ## Hello world! <img src="./Hi.gif" width="30px"></h2>
 
 <div>
