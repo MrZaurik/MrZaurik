@@ -13,7 +13,7 @@
 </div>
 <br />
 
-<img align="right" alt="GIF" src="-/cat.gif" />
+<img align="right" alt="GIF" src="./cat.gif" />
 
 ### I'm Juan G. Saurith M. 🇨🇴
 - A Statistics Student at [@UNAL](https://unal.edu.co/)
