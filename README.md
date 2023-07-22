@@ -17,7 +17,7 @@
 
 <img align="right" width="50%" alt="GIF" src="./cat.gif#gh-light-mode-only" />
 
-<img align="right" width="50%" alt="GIF" src="./math.gif" />
+<img align="right" width="45%" alt="GIF" src="./math.gif" />
 
 ### I'm Juan G. Saurith M. 🇨🇴
 - A Statistics Student at [@UNAL](https://unal.edu.co/)
